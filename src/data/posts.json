@@ -1,0 +1,35 @@
+[
+  {
+    "id": "getting-started-with-presscanvas",
+    "title": "Getting Started with PressCanvas",
+    "slug": "getting-started-with-presscanvas",
+    "date": "2024-01-15",
+    "excerpt": "Welcome to PressCanvas, your new favorite static blog platform. Learn how to create beautiful content with our markdown-based approach.",
+    "coverImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800",
+    "tags": ["getting-started", "tutorial", "blogging"],
+    "author": "PressCanvas Team",
+    "readTime": "5 min read"
+  },
+  {
+    "id": "mastering-markdown-for-blogs",
+    "title": "Mastering Markdown for Beautiful Blog Posts",
+    "slug": "mastering-markdown-for-blogs",
+    "date": "2024-01-10",
+    "excerpt": "Discover the power of markdown for creating rich, formatted content. From headers to code blocks, we'll cover everything you need to know.",
+    "coverImage": "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?w=800",
+    "tags": ["markdown", "writing", "tutorial"],
+    "author": "Jane Smith",
+    "readTime": "8 min read"
+  },
+  {
+    "id": "static-sites-modern-web",
+    "title": "Why Static Sites Are Perfect for the Modern Web",
+    "slug": "static-sites-modern-web",
+    "date": "2024-01-05",
+    "excerpt": "Explore the benefits of static site generation: lightning-fast performance, rock-solid security, and incredible scalability.",
+    "coverImage": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800",
+    "tags": ["static-sites", "performance", "web-development"],
+    "author": "Alex Johnson",
+    "readTime": "6 min read"
+  }
+]
